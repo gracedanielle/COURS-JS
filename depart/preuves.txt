@@ -1,0 +1,22 @@
+Cas Awa avec budget 50000 :
+> node .\depenses.js
+> À compléter avec la sortie réelle : total 38300, reste 11700, true
+PS C:\Users\DELL\Downloads\COURS JS\depart> node depenses.js
+Debugger attached.
+Nom :Awa
+budget: 50000
+trois dépenses : 12500, 18300, 7500
+total : 38300
+Reste: 11700
+etat du budget : true
+PS C:\Users\DELL\Downloads\COURS JS\depart> node depenses.js
+Debugger attached.
+Nom :Awa
+budget: 30000
+trois dépenses : 12500, 18300, 7500
+total : 38300
+Reste: -8300
+etat du budget : false
+Variation budget 30000 :
+> node .\depenses.js
+> À compléter avec la sortie réelle : reste -8300, false
