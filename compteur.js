@@ -1,3 +1,3 @@
 let compteur = 3;
 compteur = 4;
-console.log (compteur);
+console.log(compteur);
