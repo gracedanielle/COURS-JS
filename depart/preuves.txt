@@ -16,7 +16,6 @@ budget: 30000
 trois dépenses : 12500, 18300, 7500
 total : 38300
 Reste: -8300
-etat du budget : false
 Variation budget 30000 :
 > node .\depenses.js
 > À compléter avec la sortie réelle : reste -8300, false
